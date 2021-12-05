@@ -1,6 +1,7 @@
 import {BsArrowLeft} from 'react-icons/bs';
 import './App.css';
 import DeliveryComponent from './Components/DeliveryComponent';
+import DropShipComponent from './Components/DropShipComponent';
 import OrderComponent from './Components/OrderComponent';
 import VoucherComponent from "./Components/VoucherComponent";
 import PriceComponent from "./Components/PriceComponent";
@@ -14,6 +15,7 @@ function App() {
         <h3 className="header-title">ORDER INFORMATION</h3>
       </div>
       <DeliveryComponent title="Delivery Address" body="Please Choose Destination Address" />
+      <DropShipComponent label="Notifications" />
       <DeliveryComponent title="Shipping Option" body="Please Choose your shipping method" />
       <DeliveryComponent title="Payment Option" body="Please Choose your payment method" />
       <OrderComponent />

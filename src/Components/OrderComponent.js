@@ -1,4 +1,5 @@
 import React from "react";
+import {TextField} from '@mui/material';
 
 function OrderComponent() {
     return (
@@ -11,7 +12,11 @@ function OrderComponent() {
                     <div className="variant">
                         <h5>Variant: RED, 40</h5>            
                     </div>
+                    <p><span className="piece">1 PCS (1.100gr) @ </span><span className="price">Rp. 100.00</span></p>
                 </div>
+            </div>
+            <div style={{marginBottom: "20px"}}>
+                <TextField id="standard-basic" label="Optional message here" variant="standard" />
             </div>
         </div>
     );

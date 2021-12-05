@@ -2,6 +2,9 @@ import {BsArrowLeft} from 'react-icons/bs';
 import './App.css';
 import DeliveryComponent from './Components/DeliveryComponent';
 import OrderComponent from './Components/OrderComponent';
+import VoucherComponent from "./Components/VoucherComponent";
+import PriceComponent from "./Components/PriceComponent";
+import FinishComponent from "./Components/FinishComponent";
 
 function App() {
   return (
@@ -14,6 +17,9 @@ function App() {
       <DeliveryComponent title="Shipping Option" body="Please Choose your shipping method" />
       <DeliveryComponent title="Payment Option" body="Please Choose your payment method" />
       <OrderComponent />
+      <VoucherComponent />
+      <PriceComponent />
+      <FinishComponent />
     </div>
   );
 }

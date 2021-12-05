@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dollarhunter/static/css/main.7a37b475.chunk.css",
-    "main.js": "/dollarhunter/static/js/main.66b9a9f3.chunk.js",
-    "main.js.map": "/dollarhunter/static/js/main.66b9a9f3.chunk.js.map",
+    "main.css": "/dollarhunter/static/css/main.3904597a.chunk.css",
+    "main.js": "/dollarhunter/static/js/main.8b78029b.chunk.js",
+    "main.js.map": "/dollarhunter/static/js/main.8b78029b.chunk.js.map",
     "runtime-main.js": "/dollarhunter/static/js/runtime-main.d757f75b.js",
     "runtime-main.js.map": "/dollarhunter/static/js/runtime-main.d757f75b.js.map",
     "static/js/2.e6b11b5c.chunk.js": "/dollarhunter/static/js/2.e6b11b5c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.268366b7.chunk.js": "/dollarhunter/static/js/3.268366b7.chunk.js",
     "static/js/3.268366b7.chunk.js.map": "/dollarhunter/static/js/3.268366b7.chunk.js.map",
     "index.html": "/dollarhunter/index.html",
-    "static/css/main.7a37b475.chunk.css.map": "/dollarhunter/static/css/main.7a37b475.chunk.css.map",
+    "static/css/main.3904597a.chunk.css.map": "/dollarhunter/static/css/main.3904597a.chunk.css.map",
     "static/js/2.e6b11b5c.chunk.js.LICENSE.txt": "/dollarhunter/static/js/2.e6b11b5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d757f75b.js",
     "static/js/2.e6b11b5c.chunk.js",
-    "static/css/main.7a37b475.chunk.css",
-    "static/js/main.66b9a9f3.chunk.js"
+    "static/css/main.3904597a.chunk.css",
+    "static/js/main.8b78029b.chunk.js"
   ]
 }
